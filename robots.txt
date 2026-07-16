@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ewf4gq.dbltoto9rty.cfd/sitemap.xml
